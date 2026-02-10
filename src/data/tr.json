@@ -1,0 +1,82 @@
+{
+  "header": {
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "hireMe": "Beni İşe Al"
+  },
+  "hero": {
+    "name": "Almila Su",
+    "title1": "Yaratıcı düşünür",
+    "title2": "Minimalizm aşığı",
+    "description": "Merhaba, ben Almila. Full-stack bir geliştiriciyim. Sağlam ve ölçeklenebilir frontend ürünleri geliştiren, harika kullanıcı deneyimleri yaratan bir geliştirici arıyorsanız, hadi tokalaşalım.",
+    "hireMe": "Beni İşe Al",
+    "github": "Github",
+    "linkedin": "LinkedIn"
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "list": [
+      {
+        "name": "JavaScript",
+        "description": "Modern web uygulamaları geliştirmek için ES6+ özellikleri ve asenkron programlama konusunda derin bilgiye sahibim."
+      },
+      {
+        "name": "React.js",
+        "description": "Component tabanlı mimari, hooks, state yönetimi ve performans optimizasyonu konularında uzmanım."
+      },
+      {
+        "name": "Node.js",
+        "description": "RESTful API geliştirme, veritabanı entegrasyonu ve backend mimarisi oluşturma deneyimim var."
+      }
+    ]
+  },
+  "profile": {
+    "title": "Profil",
+    "profileTitle": "Profil",
+    "aboutTitle": "Hakkımda",
+    "birthDate": "Doğum tarihi",
+    "birthDateValue": "24.03.1996",
+    "city": "İkamet Şehri",
+    "cityValue": "Ankara",
+    "education": "Eğitim Durumu",
+    "educationValue": "Hacettepe Ünv. Biyoloji Lisans, 2016",
+    "role": "Tercih Ettiği Rol",
+    "roleValue": "Frontend, UI",
+    "aboutText1": "Web teknolojilerine olan tutkum, sürekli öğrenme ve kendimi geliştirme isteğimle birleşiyor. Kullanıcı odaklı, performanslı ve modern web uygulamaları geliştirmeyi seviyorum.",
+    "aboutText2": "Takım çalışmasına yatkın, problem çözme becerilerine sahip ve temiz kod yazmaya önem veren bir geliştiriciyim."
+  },
+  "projects": {
+    "title": "Projeler",
+    "list": [
+      {
+        "name": "Workintech",
+        "description": "Kullanıcıların hangi çerezleri kabul edip reddedeceklerini seçmelerine olanak tanıyan basit, özelleştirilebilir, minimal kurulum çerez eklentisi.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "viewSite": "Siteyi Gör"
+      },
+      {
+        "name": "Random Jokes",
+        "description": "Kullanıcılara rastgele şakalar sunan eğlenceli bir uygulama. API entegrasyonu ve state yönetimi içerir.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "viewSite": "Siteyi Gör"
+      },
+      {
+        "name": "Journey",
+        "description": "Seyahat planlaması ve deneyim paylaşımı için oluşturulmuş sosyal platform. Responsive tasarım ve kullanıcı dostu arayüz.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "viewSite": "Siteyi Gör"
+      }
+    ]
+  },
+  "footer": {
+    "title1": "Bir sonraki ürününüz",
+    "title2": "üzerinde birlikte çalışalım.",
+    "email": "almilasu@gmail.com",
+    "personalBlog": "Kişisel Blog",
+    "github": "Github",
+    "linkedin": "LinkedIn"
+  }
+}

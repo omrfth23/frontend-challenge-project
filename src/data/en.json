@@ -1,0 +1,82 @@
+{
+  "header": {
+    "skills": "Skills",
+    "projects": "Projects",
+    "hireMe": "Hire me"
+  },
+  "hero": {
+    "name": "Almila Su",
+    "title1": "Creative thinker",
+    "title2": "Minimalism lover",
+    "description": "Hi, I'm Almila. I'm a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let's shake hands with me.",
+    "hireMe": "Hire me",
+    "github": "Github",
+    "linkedin": "LinkedIn"
+  },
+  "skills": {
+    "title": "Skills",
+    "list": [
+      {
+        "name": "JavaScript",
+        "description": "Deep knowledge of ES6+ features and asynchronous programming for developing modern web applications."
+      },
+      {
+        "name": "React.js",
+        "description": "Expert in component-based architecture, hooks, state management, and performance optimization."
+      },
+      {
+        "name": "Node.js",
+        "description": "Experience in RESTful API development, database integration, and backend architecture."
+      }
+    ]
+  },
+  "profile": {
+    "title": "Profile",
+    "profileTitle": "Profile",
+    "aboutTitle": "About Me",
+    "birthDate": "Birth Date",
+    "birthDateValue": "24.03.1996",
+    "city": "City",
+    "cityValue": "Ankara",
+    "education": "Education",
+    "educationValue": "Hacettepe Unv. Biology Bachelor, 2016",
+    "role": "Preferred Role",
+    "roleValue": "Frontend, UI",
+    "aboutText1": "My passion for web technologies combines with my desire to continuously learn and improve myself. I love developing user-focused, performant, and modern web applications.",
+    "aboutText2": "I am a developer who is inclined to teamwork, has problem-solving skills, and attaches importance to writing clean code."
+  },
+  "projects": {
+    "title": "Projects",
+    "list": [
+      {
+        "name": "Workintech",
+        "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "viewSite": "View Site"
+      },
+      {
+        "name": "Random Jokes",
+        "description": "A fun application that serves random jokes to users. Includes API integration and state management.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "viewSite": "View Site"
+      },
+      {
+        "name": "Journey",
+        "description": "Social platform created for travel planning and experience sharing. Responsive design and user-friendly interface.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "viewSite": "View Site"
+      }
+    ]
+  },
+  "footer": {
+    "title1": "Let's work together on",
+    "title2": "your next product.",
+    "email": "almilasu@gmail.com",
+    "personalBlog": "Personal Blog",
+    "github": "Github",
+    "linkedin": "LinkedIn"
+  }
+}
