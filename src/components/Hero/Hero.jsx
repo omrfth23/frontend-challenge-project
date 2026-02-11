@@ -37,12 +37,12 @@ const Hero = () => {
               href="https://github.com/omrfth23" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="px-6 py-3 border border-gray-300 dark:border-gray-600 rounded-lg flex items-center gap-2 hover:bg-gray-900 dark:hover:bg-gray-700 hover:text-white dark:hover:text-white hover:border-gray-900 dark:hover:border-gray-600 transition-colors text-gray-900 dark:text-white"
+              className="px-6 py-3 border border-purple-600 dark:border-purple-500 rounded-lg flex items-center gap-2 hover:bg-purple-600 dark:hover:bg-purple-500 hover:text-white transition-colors text-gray-900 dark:text-white"
             >
               <Github size={20} />
               {data.hero.github}
             </a>
-            <button className="px-6 py-3 border border-gray-300 dark:border-gray-600 rounded-lg flex items-center gap-2 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors text-gray-900 dark:text-white">
+            <button className="px-6 py-3 border border-purple-600 dark:border-purple-500 rounded-lg flex items-center gap-2 hover:bg-purple-600 dark:hover:bg-purple-500 hover:text-white transition-colors text-gray-900 dark:text-white">
               <Linkedin size={20} />
               {data.hero.linkedin}
             </button>
